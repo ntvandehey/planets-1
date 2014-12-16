@@ -1,2 +1,3 @@
-Somthing about Pluto.
+Something about Pluto.
+Thanks for the lesson.
 Fixed this line.
